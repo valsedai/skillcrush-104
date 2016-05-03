@@ -1,32 +1,26 @@
-/** Add a comment at the beginning of your CSS styles with your name **/
+﻿/** Add a comment at the beginning of your CSS styles with your name **/
 
 /**ValSedai advice styling**/
 .valsedai-advice {
   color:#000;
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   border: 1px;
+  background-color: silver;
 }
-.valsedai-advice h1 {
+.valsedai-advice h4 {
 	color: maroon;
 	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-	font-size: 40px;
+	font-size: 28px;
+	background-color: silver;
 }
 .valsedai-advice h4 {
 	color: purple;
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	font-weight:bold;
-	font-size: 28px;
+	font-size: 44px;
+	background-color: silver;
 }
 /**End of Valsedai**/
-
-
-/**Todd advice styling**/
-.todd-advice {
-  color:#ffffff
-  font-family:sans-serif;
-  border: 1px;
-}
-/**End of Todd**/
 
 /**EstherNg advice styling**/
 .estherng-advice {
